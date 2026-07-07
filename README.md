@@ -1,9 +1,10 @@
-### Hello world 👋
+## Hey, I'm Michael
+I'm a software engineering graduate with a passion for robotics 🤖 Technologies at the intersection of hardware and software are super interesting to me, as I hope we can use them to solve some actual challenges in the world. Right now, I'm working on a mobile robot to learn more about robotic fundamentals.
 
-Some facts about me:
-
-- 💻 Studying software engineering @codam-coding-college
-- 🤖 Interested in software-hardware intersection -> especially robotics
+### About me:
+- 🌐 [Blog](https://michmos.github.io/posts)
+- 💻 Studied software engineering [@codam-coding-college](https://github.com/codam-coding-college) (42 Amsterdam)
+- 💼 BSc in Business Administration @University of Mannheim
 - 🌱 Interested in using technologies to support sustainability
 - 🪤 Nvim-tmux based workflow
 
