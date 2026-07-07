@@ -7,4 +7,4 @@ Some facts about me:
 - 🌱 Interested in using technologies to support sustainability
 - 🪤 Nvim-tmux based workflow
 
-[![TopLangs](https://github-stats-extended.vercel.app/api/top-langs?username=michmos&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=michmos&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=michmos&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=michmos&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)
